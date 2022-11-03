@@ -6,6 +6,8 @@ Created in C# using [UWP](https://learn.microsoft.com/ru-ru/windows/uwp/get-star
 
 Doesn't work on Linux (((9(9(99((9
 
+Pig Latin rules can be found [here](https://en.wikipedia.org/wiki/Pig_Latin#Rules)
+
 Program screenshot:
 
 ![](https://github.com/Vertiigor/Pigsizer/blob/master/Pigsizer/Screenshots/Screenshot.png)
